@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/5IV7_Rodrigo_Garcia_TMascotas_AP/static/css/main.5905038e.css",
+    "main.js": "/5IV7_Rodrigo_Garcia_TMascotas_AP/static/js/main.ae97eb57.js",
+    "index.html": "/5IV7_Rodrigo_Garcia_TMascotas_AP/index.html",
+    "main.5905038e.css.map": "/5IV7_Rodrigo_Garcia_TMascotas_AP/static/css/main.5905038e.css.map",
+    "main.ae97eb57.js.map": "/5IV7_Rodrigo_Garcia_TMascotas_AP/static/js/main.ae97eb57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5905038e.css",
+    "static/js/main.ae97eb57.js"
+  ]
+}
